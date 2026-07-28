@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ben Johnson
 
-<!--
-**Benny-Johnson/Benny-Johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance background, moving into data and automation work.
 
-Here are some ideas to get you started:
+I spent 2024 as an Audit Intern at Rehmann, testing transactions against the general
+ledger for Michigan municipalities and school districts. Most of what I know about
+data quality I learned there, one reconciliation at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I build automations. The pinned repository is a system I actually use, two n8n
+workflows that keep my job search records accurate, written up with the design
+decisions and the failures included rather than cleaned up afterwards.
+
+Working in Excel, SQL at working proficiency, Tableau, n8n, and Claude daily.
+Currently running an SQL sprint against a real warehouse and building a second
+automation for variance reporting.
+
+ben.a.johnson1120@gmail.com · [LinkedIn](https://linkedin.com/in/Johnson-A-Benjamin)
